@@ -1,4 +1,4 @@
-# antler-interview
+# Calculator & Covid Tracker
 
 login credentials
 
