@@ -12,4 +12,5 @@ username: animation
 
 password: ben10
 
-hosted at : http://sydcalculator.great-site.net/
+was hosted at : 
+//http://sydcalculator.great-site.net/
